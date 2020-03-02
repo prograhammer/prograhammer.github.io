@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Prograhammer
 
 # Name of the author
-author: Amit Merchant
+author: David Graham
 
 # Short bio or description (displayed in the header)
 description: An elegant Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/avatar.png
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: prograhammer@gmail.com
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: prograhammer/prograhammer.github.io
   instagram:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: prograhammer
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -52,7 +52,7 @@ enforce_ssl: https://www.amitmerchant.com/reverie
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -96,4 +96,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor
 
