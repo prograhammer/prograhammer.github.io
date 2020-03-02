@@ -30,6 +30,20 @@ You can categorize your content based on `categories` in Reverie. For this, you 
 
 For adding single category:
 
+Code sample
+
+```js
+let foo = 1;
+let bar = 2;
+
+function helloWorld() {
+  foo = foo + bar;
+  
+  return foo;
+}
+
+```
+
 ```md
 categories: JavaScript
 ```
