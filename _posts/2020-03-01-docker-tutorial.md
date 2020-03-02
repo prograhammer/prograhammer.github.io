@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker Tutorial
-categories: Miscellaneous
+categories: Containers
 excerpt: This is a concise (get-to-the-point) tutorial for Docker. We'll make something realworld&#58; a container for ElasticSearch on Ubuntu. The tutorial will cover Docker files, Docker compose, communication across containers, and Docker swarm. All of the work will be pushed up to Github and published to DockerHub.
 ---
 
